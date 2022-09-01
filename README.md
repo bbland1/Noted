@@ -2,11 +2,15 @@
 
 August 2022
 
-First React App built
+*A Google Keep Clone, **Noted**, allows users to post a note to add to the board for all to see. Currently this is not deployed, working on deploying with Varcel.*
 
-A clone of the google keep app that isn't currently deployed because to I'd want to add the backend functionality to feel like it was functional enought to deploy.
+This is currently a front end only.
 
-A video of how it works is below.
+- Front-end: React
+- Deployment: Inactive
+
+Screen recording of local developtment to show the functionality.
+
 
 
 
@@ -15,6 +19,21 @@ https://user-images.githubusercontent.com/104288486/187313269-ac66f2d7-5afe-429f
 
 
 
-This taught me a lot to build. I found out I really enojy using react and I feel like it gave me a better understandng of my ability to code, and look for answer that aren't laid out for me when adding new parts to code.
 
-This was a project for my bootcamp and we were give the basic CSS but I have updated it. The styling choices we a combo of given and chosen. But I coded each aspect. The original given code was react 17 which was perfectly fine but I had update it to react 18 in the process of looking through the developer tools and changed the necessary pats for that. 
+
+
+
+**My personal highlights of this project:**
+React may be my favorite thing in the front-end. I really felt a sense of accomplishment getting a level of understanding of how all the skills I have built over this time are coming together. I also could feel myself being able to think about steps without the hand holding of things that weren't the focus. I could see the bigger picture and small details of what we were working on. Were they sometimes blury yes, but I was feeling a level up in my skills.
+
+
+**My struggles while building this:**
+I struggled to initially wrap my brain around the functionality of props in React. It seemed to be the aspect of passing information from child to parent component and understanding how the state of the parent was updated by a stateless child that was my greatest hiccup. Which made it hard to understand how to make a note and get it to properly push to the array that was established to show the created notes. I was really pushed to used all the understanding of good research from previous experience to have different approaches to google and look on stackoverflow to find not only answers, but ones that allowed me to process the information and that didn't seem to over complicated things unneccessarily. 
+
+A small struggle was that unexpected was the original information I had was all in React 17, and I created the app and had React 18 installed. That was just me not realizing the update. Obviously everything worked it was mostly some syntax changes for teh rendering of the App but this was the first time I was seeing a changing in what I was using like this so it was interesting. 
+
+
+**What I learned in the process:**
+Project specific of course I learned some react basics, but also how important being able to google and understand the answer you find and not just focus on getting it to work with a copy and paste can feel very satifiying. I was always googling and typing out the answers I find and not really copy & pasting but because of where the struggles were I was really trying to push my understanding in the answers I was finding. Also how valuable the documentation can be and helpful with understanding an answer.
+
+I think this really allowed me to learn that I enjoy the functionilty building of all of it. I enjoy the desgin, but the funtionality feels really cool at lest in thi sproject. 
