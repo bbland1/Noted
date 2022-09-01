@@ -2,7 +2,7 @@
 
 August 2022
 
-*A Google Keep Clone, **Noted**, allows users to post a note to add to the board for all to see. Currently this is not deployed, working on deploying with Varcel.*
+*A Google Keep Clone, **Noted**, allows users to post a note to add to the board for all to see.*
 
 This is currently a front end only.
 
