@@ -7,7 +7,7 @@ August 2022
 This is currently a front end only.
 
 - Front-end: React
-- Deployment: Inactive
+- Deployment: Used Vercel found @ [Noted](https://noted-bbland1.vercel.app)
 
 Screen recording of local developtment to show the functionality.
 
